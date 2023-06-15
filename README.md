@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on planning technician
 - 🌱 I’m currently learning Javascript, Node.js and ReactJS
 - 😄 Pronouns: him/his
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisRufino&show_icons=true&theme=dark) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisRufino&layout=compact&theme=dark)   

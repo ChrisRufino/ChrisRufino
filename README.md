@@ -6,7 +6,7 @@
 
 
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center">Currently a professional as an indicator analyst, seeking new directions through new programming languages, studying software engineering and its frameworks to be able to work in development.<strong>full stack mid-level developer.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=45% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ChrisRufino&theme=radical&mode=weekly" />

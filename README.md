@@ -1,6 +1,5 @@
 ### Hi there, I'm Christian Rufino 👋
 
-//- 🔭 I’m currently working on planning technician
 - 🌱 I’m currently learning Javascript, Node.js and ReactJS
 - 😄 Pronouns: him/his
 

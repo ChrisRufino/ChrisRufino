@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning Javascript, Node.js and ReactJS
 - 😄 Pronouns: him/his
 
-
-
 <p align="center">Currently a professional as an indicator analyst, seeking new directions through new programming languages, studying software engineering and its frameworks to be able to work in development.<strong>full stack mid-level developer.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
@@ -14,11 +12,8 @@
  <img width=30% align="center" src="https://github-readme-stats-git-main-ChrisRufino.vercel.app/api/top-langs/?username=ChrisRufino&show_icons=true&theme=radical&layout=compact" />
  </div>
  
- 
  &nbsp;
  &nbsp;
-
-
 
 ## My Skills
 

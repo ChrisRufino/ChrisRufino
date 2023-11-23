@@ -9,7 +9,7 @@
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ChrisRufino&theme=radical&mode=weekly" />
  <br/>
  <br/>
- <img width=40% align="center" src="https://github-readme-stats-git-main-ChrisRufino.vercel.app/api/top-langs/?username=ChrisRufino&show_icons=true&theme=radical&layout=compact" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisRufino&layout=compact&langs_count=7&theme=dracula"/> 
  </div>
  
  &nbsp;

@@ -35,7 +35,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisRufino&layout=compact&langs_count=6&theme=gruvbox"/>
 
 
-## Tecnologias e linguagens 💻
+## 📚 Tecnologias e linguagens 💻
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,py,docker,aws)](https://skillicons.dev)
 

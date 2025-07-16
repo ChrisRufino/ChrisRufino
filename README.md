@@ -1,4 +1,4 @@
-#  Olá, eu sou o Christian!
+# 🫡 Olá, eu sou o Christian!
 <p align="left">
   Engenheiro de Software em formação, comprometido a criar soluções modernas, funcionais e com propósito. <br>
  Tenho focado meus estudos em <strong>Node.js</strong> e <strong>React</strong>, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada em Engenharia de Software.

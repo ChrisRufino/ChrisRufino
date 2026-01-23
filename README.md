@@ -2,6 +2,8 @@
 <p align="left">
   Engenheiro de Software em formação, comprometido a criar soluções modernas, funcionais e com propósito. <br>
  Tenho focado meus estudos em <strong>Node.js</strong> e <strong>React</strong>, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada em Engenharia de Software.
+
+  Tenho facilidade na criação de scripts usando VBA e Python para automatização de processos no SAP.
 </p>
 
 ## Sobre mim

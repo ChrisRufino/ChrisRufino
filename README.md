@@ -11,8 +11,8 @@
 - 🖥️ Técnico em Mecânica Industrial
 - 🎓 Graduado em Administração de Empresas na Unopar
 - 🎓 Graduando em Engenharia de Software na Uninter
-- 🎓 Pós graduação em Ciência de Dados e Inteligência Artificial na Líbano
-- 🎓 MBA em Gestão de Operações, Produção e Serviços na Líbano
+- 🎓 Pós graduação em Ciência de Dados e Inteligência Artificial 
+- 🎓 MBA em Gestão de Operações, Produção e Serviços 
 - 📚 Estudando JavaScript, Node.js, React, e desenvolvimento fullstack na Rocketseat
 - 🌍 Explorando novas tecnologias e desenvolvendo soluções de software.
 

@@ -90,10 +90,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChrisRufino&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
   <br/><br/>
 
-  <img src="https://streak-stats.demolab.com?user=ChrisRufino&locale=pt-br&mode=weekly&theme=gruvbox&hide_border=false&order=2&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"  /> <br/>
   
-  <img src="https://github-profile-trophy.vercel.app?username=ChrisRufino&theme=gruvbox&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
-  <br/>
 </div>
 
 

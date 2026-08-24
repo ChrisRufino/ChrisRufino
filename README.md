@@ -1,100 +1,73 @@
-# 🫡 Olá, eu sou o Christian!
-<p align="left">
-  Engenheiro de Software em formação, comprometido a criar soluções modernas, funcionais e com propósito. <br>
- Tenho focado meus estudos em <strong>Node.js</strong> e <strong>React</strong>, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada em Engenharia de Software.
+# Olá, eu sou o Christian 👋
 
-  Tenho facilidade na criação de scripts usando VBA e Python para automatização de processos no SAP.
-</p>
-
-## Sobre mim
-
-- 🖥️ Técnico em Mecânica Industrial
-- 🎓 Graduado em Administração de Empresas na Unopar
-- 🎓 Graduando em Engenharia de Software na Uninter
-- 🎓 Pós graduação em Ciência de Dados e Inteligência Artificial 
-- 🎓 MBA em Gestão de Operações, Produção e Serviços 
-- 📚 Estudando JavaScript, Node.js, React, e desenvolvimento fullstack na Rocketseat
-- 🌍 Explorando novas tecnologias e desenvolvendo soluções de software.
-
+Backend Developer em formação, focado em **Node.js**, **APIs REST** e **modelagem de dados** com SQL/PostgreSQL. Gosto de resolver problemas com automação (VBA/Python no SAP) e estou construindo minha base sólida em Engenharia de Software para atuar com backend e dados.
 
 ---
-<br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChrisRufino/ChrisRufino/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChrisRufino/ChrisRufino/output/pacman-contribution-graph.svg">
- 
-</picture>
+## 🧠 Sobre mim
 
-###
+- 💻 Foco atual: **Node.js**, **TypeScript**, **PostgreSQL/SQL**, **Prisma ORM**
+- 🎓 Graduando em Engenharia de Software (Uninter) · Graduado em Administração (Unopar)
+- 📊 Pós-graduação em Ciência de Dados e Inteligência Artificial
+- 🏭 MBA em Gestão de Operações, Produção e Serviços
+- ⚙️ Técnico em Mecânica Industrial, com experiência automatizando processos no SAP (VBA/Python)
+- 📚 Aprofundando conhecimento em arquitetura de APIs, autenticação, e design de banco de dados na Rocketseat
+
 ---
 
+## 🚀 Projeto em destaque
 
+### [Gerenciador de Tarefas](https://github.com/ChrisRufino/GerenciadorTarefas) — API REST
+API para gerenciamento de tarefas em equipe: autenticação JWT, controle de acesso por role (`administrator`/`member`), times, atribuição de tarefas e histórico de alterações.
 
-## ⭐ GitHub Stats
-<a href="https://github.com/ChrisRufino">
+**Stack:** Node.js · TypeScript · Express · Prisma ORM · PostgreSQL · Zod · Jest/Supertest
 
-<!-- <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ChrisRufino&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ChrisRufino&layout=compact&langs_count=6&theme=gruvbox"/>
-</div> -->
+🔗 Deploy: [gerenciadortarefas.onrender.com](https://gerenciadortarefas.onrender.com)
 
+---
 
-## 📚 Tecnologias e linguagens 💻
+## 🛠️ Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,py,docker,aws)](https://skillicons.dev)
+**Backend & Linguagens**
 
-### 🚀 Frameworks e bibliotecas
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,flask,dotnet,mysql,sql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,js,ts,py,cs)](https://skillicons.dev)
 
-### 🛠️ Ferramentas de desenvolvimento
-[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,postman,pycharm)](https://skillicons.dev)
+**Dados & Banco de Dados**
 
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker)](https://skillicons.dev)
 
+**Ferramentas**
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+[![My Skills](https://skillicons.dev/icons?i=git,github,postman,vscode,aws)](https://skillicons.dev)
 
-<p align="left"> 
-  Sou formado como <strong>Administrador de Empresas</strong> pela UNOPAR trabalho atualmente como <strong>Especialista de Processos</strong>, curso o <strong> 6º período de Engenharia de Software</strong> na UNINTER. <br><br>
-  Tenho me aprofundado em <strong>JavaScript</strong>, com foco em <strong>React.js</strong> para o front-end e <strong>Node.js</strong> para o back-end. Também venho explorando tecnologias como <strong>Python</strong>, <strong>Power BI</strong> e <strong>SQL</strong>, aplicando esses conhecimentos em projetos profissionais na empresa que atuo atualmente e pessoais que fazem parte do meu portfólio. <br><br>
-  Acredito que aprender construindo é o melhor caminho, e por isso transformo teoria em prática sempre que possível 🚀
-</p>
+---
 
+## 📈 Atividade
 
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ChrisRufino&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide=prs,issues" height="165em"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ChrisRufino&layout=compact&langs_count=6&theme=gruvbox" height="165em"/>
+</div>
 
-<p align="left">
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChrisRufino&radius=16&theme=gruvbox&area=true&order=5" height="280" alt="activity-graph graph"/>
+</div>
 
-</p>
+---
 
-<p align="left">
-  Vamos nos conectar? Me envie um e-mail, me siga no LinkedIn ou confira meu conteúdo no Instagram! 💌✨
-</p>
+## 📫 Contato
 
 <p align="left">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=christisael@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
   <a href="https://www.linkedin.com/in/christian-r-712294133/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/chrisruffs/" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ChrisRufino.ChrisRufino&left_color=yellow&right_color=red" width="80" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ChrisRufino.ChrisRufino&left_color=yellow&right_color=red" width="80"/>
 </div>
 
-<div align="center">
-  
- 
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChrisRufino&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
-  <br/><br/>
-
-  
-</div>
-
-
-
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:e61c9b,b87333:964b00"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:e61c9b,b87333:964b00"/>

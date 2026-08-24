@@ -1,6 +1,6 @@
 # Olá, eu sou o Christian 👋
 
-Backend Developer em formação, focado em **Node.js**, **APIs REST** e **modelagem de dados** com SQL/PostgreSQL. Gosto de resolver problemas com automação (VBA/Python no SAP) e estou construindo minha base sólida em Engenharia de Software para atuar com backend e dados.
+Backend Developer, focado em **Node.js**, **APIs REST** e **modelagem de dados** com SQL/PostgreSQL. Gosto de resolver problemas com automação (VBA/Python no SAP) e estou construindo minha base sólida em Engenharia de Software para atuar com backend e dados.
 
 ---
 
@@ -44,10 +44,6 @@ API para gerenciamento de tarefas em equipe: autenticação JWT, controle de ace
 
 ## 📈 Atividade
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ChrisRufino&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide=prs,issues" height="165em"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ChrisRufino&layout=compact&langs_count=6&theme=gruvbox" height="165em"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChrisRufino&radius=16&theme=gruvbox&area=true&order=5" height="280" alt="activity-graph graph"/>

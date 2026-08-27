@@ -11,7 +11,7 @@ My main focus is **Data Analytics, Business Intelligence and Automation**, while
 ## 🛠️ Tech Stack
 
 **Data & BI**
-`Python` `SQL` `Power BI` `Pandas` `Excel` `VBA`
+`Python` `Pandas` `PySpark` `Excel` `VBA` `SQL` `Power BI`
 
 **Data Engineering**
 `ETL / ELT` `PostgreSQL` `Data Modeling` `Docker`

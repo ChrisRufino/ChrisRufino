@@ -1,30 +1,50 @@
-# Olá, eu sou o Christian 👋
+# Hi, I'm Christian Rufino 👋
 
-Backend Developer, focado em **Node.js**, **APIs REST** e **modelagem de dados** com SQL/PostgreSQL. Gosto de resolver problemas com automação (VBA/Python no SAP) e estou construindo minha base sólida em Engenharia de Software para atuar com backend e dados.
+### Data • BI • Automation • Data Engineering
 
----
+I work at the intersection of **business, operations, data, and technology**, transforming operational challenges into analytical solutions and process automations.
 
-## 🧠 Sobre mim
+Currently working as a **Process & Data Specialist**, with professional experience across **Oil & Gas, Offshore, Subsea, Logistics, Warehousing, Inventory Management, and SAP environments**.
 
-- 💻 Foco atual: **Node.js**, **TypeScript**, **PostgreSQL/SQL**, **Prisma ORM**
-- 🎓 Graduando em Engenharia de Software (Uninter) · Graduado em Administração (Unopar)
-- 📊 Pós-graduação em Ciência de Dados e Inteligência Artificial
-- 🏭 MBA em Gestão de Operações, Produção e Serviços
-- ⚙️ Técnico em Mecânica Industrial, com experiência automatizando processos no SAP (VBA/Python)
-- 📚 Aprofundando conhecimento em arquitetura de APIs, autenticação, e design de banco de dados na Rocketseat
+My main focus is **Data Analytics, Business Intelligence and Automation**, while expanding my expertise in **Data Engineering and Software Engineering**.
 
----
+## 🛠️ Tech Stack
 
-## 🚀 Projeto em destaque
+**Data & BI**
+`Python` `SQL` `Power BI` `Pandas` `Excel` `VBA`
 
-### [Gerenciador de Tarefas](https://github.com/ChrisRufino/GerenciadorTarefas) — API REST
-API para gerenciamento de tarefas em equipe: autenticação JWT, controle de acesso por role (`administrator`/`member`), times, atribuição de tarefas e histórico de alterações.
+**Data Engineering**
+`ETL / ELT` `PostgreSQL` `Data Modeling` `Docker`
 
-**Stack:** Node.js · TypeScript · Express · Prisma ORM · PostgreSQL · Zod · Jest/Supertest
+**Automation & Enterprise**
+`SAP S/4HANA` `SAP MM-IM` `SAP EWM` `SAP GUI Scripting`
 
-🔗 Deploy: [gerenciadortarefas.onrender.com](https://gerenciadortarefas.onrender.com)
+**Software Engineering**
+`Node.js` `TypeScript` `REST APIs` `Git`
 
----
+## 🚀 Featured Project
+
+### SAP Automation with Python
+
+Desktop application developed to automate operational activities in **SAP**, including report extraction, data processing and Excel generation.
+
+The project connects my professional experience in **SAP, logistics and process improvement** with software development and automation.
+
+**Stack:** `Python` `Pandas` `PySide6` `openpyxl` `SAP GUI Scripting`
+
+[View project →](https://github.com/ChrisRufino/Script_Consulta_SAP)
+
+## 📚 Currently Learning
+
+Focused on **Data Engineering**, especially:
+
+`Python` • `SQL` • `ETL/ELT` • `Data Modeling` • `Data Pipelines` • `Databases`
+
+## 🤝 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Christian_Rufino-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/christian-r-712294133/)
+[![GitHub](https://img.shields.io/badge/GitHub-ChrisRufino-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/ChrisRufino)
+
 
 ## 🛠️ Stack
 
